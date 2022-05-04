@@ -1,0 +1,22 @@
+/*mobile*/
+@media(max-with:740px){
+    #nav > li {
+        display: block;
+    }
+    #header.search-btn{
+        display: none;
+    }
+}
+/* pc:>=1024pc */
+/* tablet: >=740px&<1024px */
+/* mobile:<740px */
+/*tablet*/
+@media(max-width:800px)/*toi da 800px thi chay */
+{
+    
+
+}
+/*pc*/
+@media(min-width:740px)and(max-width:1023px){
+
+}
